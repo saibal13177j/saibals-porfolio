@@ -36,5 +36,5 @@ section{
 .dream{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
-    
+    background-position: right;
 }
