@@ -9,7 +9,7 @@ h1{
 #hq{
     color: orange;
 }
-section{
+.flex{
     display: flex;
     margin-bottom: 150px;
 }
@@ -37,4 +37,26 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.ORG{
+    color:  orange;
+}
+.exp2{
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    padding-left: 20px;
+    box-shadow: 10px 10px 30px 30px gray;
+    border-left: 7px solid purple;
+    
+}  
+.exp{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+
+}
+footer {
+    text-align: center;
 }
